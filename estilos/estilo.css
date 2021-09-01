@@ -1,0 +1,26 @@
+
+.navbar{
+    box-shadow: 2px 2px 5px #000; 
+    opacity: .9; 
+} 
+
+.navbar .nav-item .nav-link {
+  color: #edf5ed; 
+  background-position-x: right;
+} 
+
+.main-header { 
+  position: relative;
+  background: url(../img/tablones/6.jpg);  
+  background-size: cover; 
+  min-height: 600px; 
+  
+} 
+
+.background-overlay {  
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+} 
